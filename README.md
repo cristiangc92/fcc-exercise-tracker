@@ -1,6 +1,6 @@
 # Exercise Tracker
 
-<h3>This is the boilerplate for the Exercise Tracker project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/exercise-tracker.<br><br>
+<h3>Crea una aplicación full stack de JavaScript que sea funcionalmente similar a esta: https://exercise-tracker.freecodecamp.rocks/.<br><br>
 
 Tus respuestas deben tener las siguientes estructuras.</h3>
 
